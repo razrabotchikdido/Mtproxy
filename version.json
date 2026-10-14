@@ -1,6 +1,6 @@
 
 {
-  "version": "1.0.6",
+  "version": "1.0.5",
   "changelog": "• Исправлен автозапуск — прокси больше не скачиваются при открытии\n• Добавлена кнопка ПАУЗА / ВОЗОБНОВИТЬ рядом со «Скачать»\n• Увеличен баннер (шире и крупнее шрифт)\n• Мелкие улучшения UI и стабильности",
   "apk_url": "https://github.com/razrabotchikdido/Mtproxy/raw/refs/heads/main/MTProxy.apk",
   "force": false
